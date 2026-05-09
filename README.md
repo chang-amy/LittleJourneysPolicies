@@ -3,4 +3,4 @@ Policies for Little Journey, the gamified producitivity tool.
 - Terms of Service
 - Privacy Policy
 
-Adapted from the Basecamp open-source policies / CC BY 4.0
+Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
