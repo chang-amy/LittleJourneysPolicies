@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: May 8, 2025
+Last updated: May 11, 2025
 
 The privacy of your data is important to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We will never sell your data.
 
@@ -20,9 +20,10 @@ You may create an account using Google Sign-In, Sign in with Apple, or an email 
 
 We store on our servers the content you create within the app — such as task lists and to-do items — in order to provide the Services as intended. We keep this content for as long as your account is active. If you delete your account, we will delete the content within 60 days.
 
-**What We Do Not Collect**
+**Purchases and Billing**
+If you purchase cosmetic items within the app, we collect the information necessary to process your transaction. Payment transactions are processed by third-party payment providers. We do not store your full credit card or banking details on our servers. We retain a record of your purchase history in order to restore purchased items across devices and to handle support requests.
 
-- Payment or billing information (the Service is free)
+**What We Do Not Collect**
 - Location data
 - Device identifiers or advertising IDs
 - Data for advertising or marketing profiling
