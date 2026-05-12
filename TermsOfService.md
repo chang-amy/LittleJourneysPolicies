@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: May 8, 2025
+Last updated: May 11, 2025
 
 Thank you for using Little Journey! When we say "Little Journey," "we," "our," or "us" in this document, we are referring to the developers who own and operate the Service. When we say "Services," we mean the Little Journey app and any related websites or products. When we say "you" or "your," we are referring to the people that own an account with the Service.
 
