@@ -16,7 +16,13 @@ By using our Services, you are agreeing to these Terms of Service ("Terms"). We 
 
 ## Payment, Refunds, and Plan Changes
 
-Little Journey is provided entirely free of charge. We do not ask for your credit card and we do not sell your data. There are no paid plans, upgrades, or in-app purchases.
+The core Little Journey app is provided free of charge. We do not sell your data.
+
+We offer optional cosmetic items available for purchase within the app. These purchases are non-refundable except where required by applicable law. All cosmetic items are for personal, non-commercial use only and remain licensed — not sold — to you. Little Journey reserves the right to modify, discontinue, or update cosmetic items at any time.
+
+Payments are processed securely through third-party payment providers. Little Journey does not store your full payment card details. By making a purchase, you agree to provide accurate and complete billing information.
+
+If you believe you have been charged in error, please contact us at support@littlejourneys.app within 30 days of the charge.
 
 ## Cancellation and Termination
 
