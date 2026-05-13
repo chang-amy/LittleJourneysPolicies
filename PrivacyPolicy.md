@@ -4,13 +4,13 @@ Last updated: May 11, 2025
 
 The privacy of your data is important to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We will never sell your data.
 
-This policy applies to the Little Journey app and any related websites or products built and maintained by Little Journey.
+This policy applies to the Little Journeys app and any related websites or products built and maintained by Little Journeys.
 
 ## What We Collect and Why
 
 **Identity and Access**
 
-When you sign up for Little Journey, we ask for your name and email address. This is so you can personalize your account and so we can send you essential service communications. We will never sell your personal information to third parties.
+When you sign up for Little Journeys, we ask for your name and email address. This is so you can personalize your account and so we can send you essential service communications. We will never sell your personal information to third parties.
 
 **Sign-In Method**
 
@@ -69,11 +69,11 @@ We keep your information for the time necessary for the purposes for which it is
 
 ## Location of Data
 
-Little Journey is operated by a team based in the United States. If you are located outside the United States, please be aware that any information you provide will be transferred to and stored in the United States. By using the Services and providing us with your personal information, you consent to this transfer.
+Little Journeys is operated by a team based in the United States. If you are located outside the United States, please be aware that any information you provide will be transferred to and stored in the United States. By using the Services and providing us with your personal information, you consent to this transfer.
 
 ## Children
 
-The Services require users to be at least 13 years of age. Little Journey does not knowingly collect personal information from children under 13. If you believe a child under 13 has created an account without parental consent, please contact us and we will delete the account promptly.
+The Services require users to be at least 13 years of age. Little Journeys does not knowingly collect personal information from children under 13. If you believe a child under 13 has created an account without parental consent, please contact us and we will delete the account promptly.
 
 ## Changes and Questions
 
